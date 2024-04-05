@@ -1,6 +1,4 @@
-### ✨ Hi! I'm Felipe Cesar 😃 ... Welcome to my GitHub!!! ✨ 
-
-##
+## ✨ Hi! I'm Felipe Cesar 😃 ... Welcome to my GitHub!!! ✨
 
 <div>  
   <a href="https://github.com/Felipe-Tomazoti">
